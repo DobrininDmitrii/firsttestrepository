@@ -8,3 +8,5 @@ echo '3';
 echo '2коммит';
 
 echo 'git log';
+
+echo '321';
