@@ -1,7 +1,7 @@
 <?php
 
-echo '1';
-echo '2';
+echo 'q';//qq
+echo '4';
 echo '3';
 echo '4';
 //2коммит//
@@ -13,8 +13,9 @@ echo '321';
 if ( 1 || 2) {
     $b = 5;
 }
-tag
-
+ta
+g
+rr
 zzz
 new branch testing
 qqq
