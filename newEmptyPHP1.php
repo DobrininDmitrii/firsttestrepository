@@ -10,10 +10,12 @@ echo '2коммит';
 echo 'git log';
 
 echo '321';
-
+if ( 1 || 2) {
+    new \woo base();
+}
 tag
 
 new branch testing
 
-df
+df//\\\\//\\..,,//??/\\||
 qqqqqqqqqqqqqqqqqqqqqqqqqqq
