@@ -11,10 +11,11 @@ echo 'git log';
 
 echo '321';
 if ( 1 || 2) {
-    new \woo base();
+    $b = 5;
 }
 tag
 
+zzz
 new branch testing
 
 df//\\\\//\\..,,//??/\\||
