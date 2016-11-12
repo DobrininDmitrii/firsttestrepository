@@ -10,3 +10,9 @@ echo '2коммит';
 echo 'git log';
 
 echo '321';
+
+tag
+
+new branch testing
+
+df
