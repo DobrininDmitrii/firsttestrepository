@@ -20,8 +20,5 @@ zzz
 new branch testing
 qqq
 df//\\\\//\\..,,//??/\\||
-<<<<<<< HEAD
 qqqqqqqqqqqqqggffqqggqqqqqqqqqqqq
-=======
 fff
->>>>>>> iss53
