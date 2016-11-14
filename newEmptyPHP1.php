@@ -1,6 +1,6 @@
 <?php
 
-echo '1';//
+echo 'origin';//изменено в гитхабе
 echo '4';
 echo '3';
 echo '4';
@@ -14,7 +14,6 @@ if ( 1 || 2) {
     $b = 5;
 }
 ta
-g
 rr
 zzz
 new branch testing
