@@ -1,6 +1,6 @@
 <?php
 
-echo '1';
+echo 'origin';//изменено в гитхабе
 echo '2';
 echo '3';
 
