@@ -8,12 +8,4 @@ qwкerг11111111111yuв33333333
 апрол
 dddd+new br
 
-
-
-
-44hkl;
-dsfgh
-jkjhg
-ghjkl;
-
-j
+--------------
