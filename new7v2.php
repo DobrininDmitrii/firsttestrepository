@@ -11,6 +11,6 @@ function abc(){
 function qwer(){
 	echo 'xxxx';
 	
-	return 12345555;
+	return 1q2345555;
 	
 }
