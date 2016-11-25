@@ -10,7 +10,7 @@ function abc(){
 
 function qwer(){
 	echo 'xxxx';
-	
+	fhjkl;
 	return 2345555;
 	
 }

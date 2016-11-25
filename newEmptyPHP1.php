@@ -8,7 +8,7 @@ echo '4';
 echo '2коммит';
 
 echo 'git log';
-
+jhgf
 echo '321';
 if ( 1 || 2) {
     $b = 5;
