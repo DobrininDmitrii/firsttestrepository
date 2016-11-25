@@ -1,7 +1,7 @@
 <?php
 
 function abc(){
-	echo 'xxx';
+	$u = 'xxx';
 	
 	return 999;
 	
@@ -11,6 +11,6 @@ function abc(){
 function qwer(){
 	echo 'xxxx';
 	
-	return 12345;
+	return 12345555;
 	
 }
