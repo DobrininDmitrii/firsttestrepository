@@ -2,7 +2,7 @@
   
 function hellow(){ 
 	 
-	echo 'hellow world'; 
+	echo 'hellow mundo'; 
 	 
 }//func hellow 
  
