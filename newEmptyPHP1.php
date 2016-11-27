@@ -1,7 +1,8 @@
-<?php
-
-function hellow(){
-	
-	echo 'hellow world';
-	
-}//func hellow
+<?php 
+  
+function hellow(){ 
+	 
+	echo 'hellow world'; 
+	 
+}//func hellow 
+ 
