@@ -2,6 +2,6 @@
 
 function hellow(){
 	
-	echo 'hellow world';
+	echo 'hola world';
 	
 }//func hellow
