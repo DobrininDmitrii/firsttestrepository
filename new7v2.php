@@ -8,7 +8,7 @@ function abc(){
 }
 
 
-function qwer(){
+function func_name(){
 	echo 'xxxx';
 	fhjkl;
 	return 2345555;
